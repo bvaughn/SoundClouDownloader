@@ -1,5 +1,5 @@
 # SoundClouDownloader
-![alt text](https://raw.githubusercontent.com/bvaughn/SoundClouDownloader/master/icons/icon128.png "SoundClouDownloader")
+![alt text](https://s3.amazonaws.com/media.briandavidvaughn.com/images/sound-cloud-downloader-promo-banner.png "SoundClouDownloader")
 
 Chrome extension enabling automatic downloads of any SoundCloud track, even when download option is disabled
 
