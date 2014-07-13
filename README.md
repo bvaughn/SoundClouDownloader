@@ -5,7 +5,7 @@ Chrome extension enabling automatic downloads of any SoundCloud track, even when
 
 ## How do I use this extension?
 
-The easiest way to install this extension is to search for *SoundClouDownloader* in the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions). You may also install it directly from GitHub my cloning the repository and following [Google's instructions for how to load an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked).
+The easiest way to install this extension is to [download the *SoundClouDownloader* from the Chrome Web Store](https://chrome.google.com/webstore/detail/soundcloudownloader/mnopfpplhinhnkldleplklcogmdbphak?authuser=2). You may also install it directly from GitHub my cloning the repository and following [Google's instructions for how to load an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 Once you've installed the instruction, browse to [any SoundCloud song-page](https://soundcloud.com/brianvaughn/burn-you-away), right click, and select *Download SoundCloud track*. The SoundCloud track should automatically downloaded to your *Downloads* directory.
 
