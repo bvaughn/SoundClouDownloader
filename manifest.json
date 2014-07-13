@@ -21,7 +21,6 @@
     "tabs",
     "webRequest",
     "contextMenus",
-    "*://soundcloud.com/*",
-    "*://*.soundcloud.com/*"
+    "*://*/*" // SoundCloud.com downloads from a variety of static data storage URLs
   ]
 }
