@@ -1,0 +1,27 @@
+{
+  "name": "SoundClouDownloader",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Download any song from SoundCloud, even when downloads have been disabled.",
+  "homepage_url": "http://www.briandavidvaughn.com",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "scripts": [
+      "js/jquery.js",
+      "src/background.js"
+    ],
+    "persistent": true
+  },
+  "permissions": [
+    "downloads",
+    "tabs",
+    "webRequest",
+    "contextMenus",
+    "*://soundcloud.com/*",
+    "*://*.soundcloud.com/*"
+  ]
+}
